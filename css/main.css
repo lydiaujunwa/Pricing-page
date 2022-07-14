@@ -1,0 +1,247 @@
+.step{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+    /* justify-content: space-around;
+    align-items: center;
+    text-align: center; */
+}
+.click{
+    flex: 3;
+    z-index: 10;
+    margin-left: -50px;
+    /* background-color: orange; */
+}
+.click-1{
+    flex: 3;
+    z-index: 10;
+    /* background-color: orange; */
+}
+.click> ul{
+    display: inline-block;
+    /* background-color: black ; */
+}
+.btn{
+    padding: 5px 5px;
+    width: 100px;
+    border-radius: 5px;
+    border: 2px solid blue;
+    font-size: 20px;
+    background-color: none;
+    color: blue;
+}
+.btn:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+a{
+    color: var(---black);
+    text-decoration: none;
+}
+a:hover{
+    color: skyblue;
+}
+.price{
+    font-size: 60px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    color: black;
+}
+.text{
+    font-size: 30px;
+    /* background-color: green; */
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: black;
+}
+.price-row{
+    height: 800px;
+    width: 100%;
+    margin-top: -30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+.price-1{
+    height: 400px;
+    width: 300px;
+    margin-top: -300px;
+    align-items: center;
+    text-align: center;
+    color: black;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+.btn-1{
+    padding: 5px 5px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid blue;
+    font-size: 20px;
+    background-color: none;
+    color: blue;
+}
+.btn-1:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+a{
+    color: var(---black);
+    text-decoration: none;
+}
+a:hover{
+    color: skyblue;
+}
+.amount{
+    font-size: 30px;
+    color: black;
+    margin-bottom: 20px;
+}
+.amount-1{
+    font-size: 30px;
+    color: black;
+    margin-bottom: 20px;
+}
+.price-head-1{
+    height: 40px;
+    width: 125%;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    margin-left: -30px;
+    background-color: silver;
+    border: 1px solid black;
+}
+.price-head-2{
+    height: 40px;
+    width: 125%;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    margin-left: -30px;
+    background-color: silver;
+    border: 1px solid black;
+}
+.price-head-3{
+    height: 40px;
+    width: 125%;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    margin-left: -30px;
+    background-color: silver;
+    border: 1px solid black;
+}
+.price-main{
+    color: black;
+    line-height: 20px;
+}
+.price-main-1{
+    color: black;
+    line-height: 20px;
+}
+.price-2{
+    height: 400px;
+    width: 300px;
+    margin-top: -300px;
+    align-items: center;
+    text-align: center;
+    color: black;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+.btn-2{
+    padding: 5px 5px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid blue;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+.btn-2:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+a{
+    color: var(---black);
+    text-decoration: none;
+}
+a:hover{
+    color: skyblue;
+}
+.price-3{
+    height: 400px;
+    width: 300px;
+    margin-top: -300px;
+    align-items: center;
+    text-align: center;
+    color: black;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.bbbbb{
+    height: 800px;
+    width: 100%;
+    margin-top: -300px;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+.small-bbb{
+    align-items: center;
+    text-align: justify;
+    color: black;
+}
+.bb-head{
+    margin-top: -350px;
+    text-align: justify;
+    color: black;
+    font-size: 20px;
+}
+.items{
+    color: black;
+    line-height: 20px;
+}
